@@ -2,7 +2,7 @@
 
 Single expansion tile example for Flutter
 
-<img src="images/output.gif" alt="Flutter Single ExpansionTile" width="720" />
+<img src="images/output.gif" alt="Flutter Single ExpansionTile" width="480" />
 
 ## Getting Started
 
