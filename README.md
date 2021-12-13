@@ -1,4 +1,4 @@
-# expansion_example
+# ExpansionTile_example
 
 Single expansion tile example for Flutter
 
